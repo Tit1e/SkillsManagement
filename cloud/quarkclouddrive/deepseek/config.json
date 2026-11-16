@@ -1,0 +1,18 @@
+{
+  "deviceId": "b5cafa29fd7c4d7309c524fbf92fd259",
+  "platform": "MacBook Air",
+  "currentUserId": "62841bf161ed44a3a18a5af32b035ba3",
+  "agent_auth": {
+    "deepseek": {
+      "userId": "62841bf161ed44a3a18a5af32b035ba3",
+      "login_time": 1794049522581
+    }
+  },
+  "62841bf161ed44a3a18a5af32b035ba3": {
+    "accessToken": "~1g5-fXhLV_cnzCsiYw1tpOf7kaWmQA2j8mhIqFlQEfpyTkh_RMNzjB6Y7gVJayp5Sn0kb0jb3ryHmcOG2VJVbsV7O5nVX-CHMF_s34yXVbKB79SHbtHveEqiuLveBQCIE6qqis8iMsTJN3lkkkbvYTI87_r-PNsLd4lXM6wudqqmkErErDz2NFM5j5nuycOvyvfn3NReUkGbICuJPF-K2rH76XMT15VRGHIu2qXnhgNXkSFLnjdKWxYqfehLehSc5ZoSlhH7laYKQvD0yZYZdgC46D6PZ32iXo_6NzfsFFU2H3URC5Bki8ps-uKtsjtKNQ052NJIpk64BNgKuZhpY9YV7PIrZeYbNMwOsk86l2WVQYiPTf3ONvV9-EodZ-zmV8InJBENJi9Bjd328g5HkFMwWx7NydjI6WxLlW-wU6_-51rOyGyJB2uUZGTTRUxiTn8RUlg6PWediQwbCn8hTXavVtY7sNhPwAdLFqDT04uHe3z8AGbG8",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsIlR5cGUiOiJKd3QiLCJ0eXAiOiJKV1QifQ.eyJvcGVuSWQiOiI2Mjg0MWJmMTYxZWQ0NGEzYTE4YTVhZjMyYjAzNWJhMyIsImV4cCI6MTgwODk3Nzc2MSwidG9rZW4iOiIxNmI1NDVhM2U5ZDI0Njg5OWE2OWM3ZTM3YmMxZjFiNCJ9.a7gQSGTVQU8Fd4q9wlZi5CfKlzdJeVbbBvQV0oOLxN0",
+    "clientToken": "",
+    "userId": "62841bf161ed44a3a18a5af32b035ba3",
+    "update_time": 1794049522581
+  }
+}

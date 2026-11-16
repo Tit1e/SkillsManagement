@@ -1,0 +1,11 @@
+# Local metadata
+.DS_Store
+
+# External Git repositories managed through sources.tsv
+/agent/waza/
+/animation/fy-code-animation/
+/business/dbskill/
+/content/xiaohongshu-ai-workbench/
+/doc/kami/
+/ios/app-store-connect-cli-skills/
+/swift/swiftui-agent-skill/
