@@ -8,7 +8,7 @@
 - `animation/` - 代码动画相关（代码动画 Skill fy-code-animation，及 341 风格库）
 - `business/` - 商业诊断与内容生产相关（dbskill 工具箱，37 个 Skill）
 - `cloud/` - 云存储相关 Skill（1 个：quarkclouddrive）
-- `content/` - 内容与自媒体运营相关（小红书运营手册·AI工作台，7 个 Skill）
+- `content/` - 内容与自媒体运营相关（小红书运营手册·AI工作台，7 个 Skill；AIHOT 资讯查询，1 个 Skill）
 - `doc/` - 文档相关（约束文档 GEB.md，排版 Skill kami）
 - `ios/` - iOS/App Store 发布上架相关（App Store Connect CLI Skills，26 个 Skill）
 - `swift/` - Swift 与 SwiftUI 相关 Skill（1 个：swiftui-pro）
